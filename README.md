@@ -1,0 +1,1 @@
+# floating-clipboard-lite
